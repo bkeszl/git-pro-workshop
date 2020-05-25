@@ -1,9 +1,5 @@
 public class Future {
-  public Future() {
-    future();
-  }
-
-  public void future(){
-    System.out.println("libra");
+  public void future(int parameter){
+    System.out.println(parameter);
   }
 }
