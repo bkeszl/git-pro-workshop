@@ -1,5 +1,6 @@
 public class Count {
   public void count(){
-    System.out.println("25");
+    String outStr = "25";
+    System.out.println(outStr);
   }
 }
